@@ -3,7 +3,7 @@ Data Science and Analytics with Python: All examples in Jupyter Notebooks
 
 This repository contains all the examples from [Data Science and Analytics with Python](https://www.crcpress.com/Data-Science-and-Analytics-with-Python/Rogel-Salazar/p/book/9781498742092), in the form of (free!) Jupyter notebooks.
 
-![cover image](notebooks/figures/image-cover.png)
+![cover image](notebooks/figures/cover-image.png)
 
 ## How to Use this Book
 
