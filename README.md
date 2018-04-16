@@ -14,7 +14,7 @@ or [Amazon](https://www.amazon.co.uk/Science-Analytics-Chapman-Knowledge-Discove
 
 ## About
 
-This book was written by Jesus Rogel-Salazar, which I have the pleasure to work with at AKQA London. I have decided to 
+This book was written by [Jesus Rogel-Salazar](https://uk.linkedin.com/in/jesusrogel) which I have the pleasure to work with at AKQA London. I have decided to 
 rewrite all the notebooks examples to both refresh my Data Science and Machine Learning skills and in order to make this 
 material available and easily accessible to more colleagues and anyone interested in the field.
 
