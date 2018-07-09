@@ -94,6 +94,8 @@ ENV/
 # Emacs
 *~
 
+# Mac
+.DS_Store
 
 # Temporary data files
 notebooks/recipeitems-latest.json
